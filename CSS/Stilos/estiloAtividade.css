@@ -1,0 +1,31 @@
+body{
+    background-color: lightgray;
+    background-image: url(../Imagens/log.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: red;
+    font-family: cursive;
+    text-align: center;
+    text-size-adjust: unset;
+}
+
+h2{
+    color: blueviolet;
+    text-align: justify;
+    text-size-adjust: inherit;
+}
+
+h3{
+    color: crimson
+}
+p{
+    color: red
+}
+
+li{
+    color: blue
+}

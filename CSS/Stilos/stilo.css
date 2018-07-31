@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    background-image: url("../Imagens/crack.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover
+
+    
+}
+
+h1{
+    color: lawngreen;
+    text-align: center
+    
+}
+h2{
+    color: lawngreen;
+    text-align: center;
+}
